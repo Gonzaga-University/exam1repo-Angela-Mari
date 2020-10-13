@@ -17,6 +17,7 @@ public class Main {
         System.out.println("Starting app");
         Adder adder = new Adder(10, 20);
 
+        System.out.println("Imporant improvement 1");
         System.out.println("App finished.");
     }
 }
