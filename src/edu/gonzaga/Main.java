@@ -18,6 +18,7 @@ public class Main {
         Adder adder = new Adder(10, 20);
 
         System.out.println("Imporant improvement 1");
+        System.out.println("Important improvement 2");
         System.out.println("App finished.");
     }
 }
