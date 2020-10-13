@@ -19,6 +19,7 @@ public class Main {
 
         System.out.println("Imporant improvement 1");
         System.out.println("Important improvement 2");
+        Ststem.out.println("Last improvement");
         System.out.println("App finished.");
     }
 }
